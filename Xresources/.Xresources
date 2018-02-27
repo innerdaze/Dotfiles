@@ -1,0 +1,7 @@
+URxvt.font: xft:anonymous pro minus:size=10
+URxvt.scrollBar: false
+URxvt.internalBorder: 20
+URxvt.perl-ext-common: default,matcher
+URxvt.url-launcher: firefox
+URxvt.matcher.button: 1
+URxvt.matcher.rend.0: Uline Bold fg5
